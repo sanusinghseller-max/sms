@@ -1,0 +1,9 @@
+node_modules/
+serviceAccount.json
+*serviceAccount*.json
+.env
+.env.*
+!.env.example
+firebase-debug.log
+deploy-debug.txt
+*.log
