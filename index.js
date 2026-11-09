@@ -44,7 +44,7 @@ const app = express();
 app.disable("x-powered-by");
 
 const allowedOrigins = new Set([
-    "https://ninja-x-panel-rrr11.web.app"
+    "https://ninja-x-panel-rrr12.web.app"
 ]);
 
 app.use((req, res, next) => {
